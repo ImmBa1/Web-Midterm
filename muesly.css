@@ -1,0 +1,93 @@
+body{
+	background:red;
+}
+.logo{
+	position: relative;
+    left: 25px;
+    top: 20px;
+}
+.logo-name{
+	position: relative;
+	bottom: 50px;
+	left: 160px;
+}
+
+.main-body{
+	background:#B22222;
+	}
+.nav-item nav-link{
+	font-size:100px;
+}
+.whyus{
+	font-color: text-white;
+}
+.muesly-main{
+	top: 200px;
+	position:absolute;
+	left: 300px;
+}
+.muesly-main-text{
+	font-family: 'Londrina Solid', cursive;
+	font-family: 'Playfair Display', serif;
+	font-size: 60px;
+	position:relative;
+}
+
+.creator{
+	position:absolute;
+	top:650px;
+	left:700px;
+}
+.Maxim{
+	position:relative;
+	right:600px;
+	top:250px;
+	font-size:30px;
+	padding-bottom: -30px;
+}
+.carousel{
+  top:650px;
+  left:100px;
+  width:900px;
+  height:500px;
+}
+.carousel-item{
+	left:208px;
+}
+
+
+.logical{
+	top: 2000px;
+	position:absolute;
+	left: 300px;
+}
+
+.whyus{
+	font-family: 'Londrina Solid', cursive;
+font-family: 'Playfair Display', serif;
+font-size:60px;
+}
+.whyus-answer{
+	font-family: 'Londrina Solid', cursive;
+font-family: 'Playfair Display', serif;
+font-size:30px; 
+}
+
+
+.card{
+	top:2170px;
+}
+
+.container{
+	top:1450px;
+}
+.premium-text{
+	position:absolute;
+	top:2580px;
+	left:80px;
+}
+
+.button1{
+	position:relative;
+	margin-left:200px;
+}
